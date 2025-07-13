@@ -45,10 +45,6 @@ heart-rate-monitor-esp32/
 3. Select the correct ESP32 board and port
 4. Upload `heart_rate_monitor.ino` and open Serial Monitor at 115200 baud
 
-## 📷 Demo
-
-![Demo](assets/demo.gif)
-
 ## 📄 License
 
 MIT
